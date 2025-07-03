@@ -38,7 +38,7 @@ namespace _homeWork
             //const string SITE = "https://aps.ntut.edu.tw/course/tw/Subj.jsp?format=-4&year=110&sem=1&code=2433";
             const string POSITION = "//body/table";
             HtmlWeb webClient = new HtmlWeb();
-            webClient.OverrideEncoding = Encoding.Default;
+            webClient.OverrideEncoding = null;
             HtmlAgilityPack.HtmlDocument document = webClient.Load(site);
             List<Course> course = new List<Course>();
             HtmlNode nodeTable = document.DocumentNode.SelectSingleNode(POSITION);
