@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\sam\\Desktop\\MyData\\WindowsForm_PartI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9B33D691-160C-4EED-A4A4-0347FAAA38FA}|HTMLParser\\_homeWork.csproj|c:\\users\\sam\\desktop\\mydata\\windowsform_parti\\htmlparser\\coursedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B33D691-160C-4EED-A4A4-0347FAAA38FA}|HTMLParser\\_homeWork.csproj|solutionrelative:htmlparser\\coursedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B33D691-160C-4EED-A4A4-0347FAAA38FA}|HTMLParser\\_homeWork.csproj|c:\\users\\sam\\desktop\\mydata\\windowsform_parti\\htmlparser\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B33D691-160C-4EED-A4A4-0347FAAA38FA}|HTMLParser\\_homeWork.csproj|solutionrelative:htmlparser\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B33D691-160C-4EED-A4A4-0347FAAA38FA}|HTMLParser\\_homeWork.csproj|c:\\users\\sam\\desktop\\mydata\\windowsform_parti\\htmlparser\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B33D691-160C-4EED-A4A4-0347FAAA38FA}|HTMLParser\\_homeWork.csproj|solutionrelative:htmlparser\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,15 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CourseData.cs",
-              "DocumentMoniker": "C:\\Users\\sam\\Desktop\\MyData\\WindowsForm_PartI\\HTMLParser\\CourseData.cs",
-              "RelativeDocumentMoniker": "HTMLParser\\CourseData.cs",
-              "ToolTip": "C:\\Users\\sam\\Desktop\\MyData\\WindowsForm_PartI\\HTMLParser\\CourseData.cs",
-              "RelativeToolTip": "HTMLParser\\CourseData.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAwwCgAAAAuAAAAAAAAAA==",
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\sam\\Desktop\\MyData\\WindowsForm_PartI\\HTMLParser\\Form3.cs",
+              "RelativeDocumentMoniker": "HTMLParser\\Form3.cs",
+              "ToolTip": "C:\\Users\\sam\\Desktop\\MyData\\WindowsForm_PartI\\HTMLParser\\Form3.cs",
+              "RelativeToolTip": "HTMLParser\\Form3.cs",
+              "ViewState": "AgIAAMUAAAAAAAAAAIA8wNQAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T02:04:57.418Z",
+              "WhenOpened": "2025-07-03T04:05:09.447Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form3.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\sam\\Desktop\\MyData\\WindowsForm_PartI\\HTMLParser\\Form3.cs",
+              "RelativeDocumentMoniker": "HTMLParser\\Form3.cs",
+              "ToolTip": "C:\\Users\\sam\\Desktop\\MyData\\WindowsForm_PartI\\HTMLParser\\Form3.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "HTMLParser\\Form3.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T04:05:01.697Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
             }
           ]
         }
